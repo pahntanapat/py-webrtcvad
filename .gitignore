@@ -65,3 +65,5 @@ target/
 *~
 
 venv/
+dist/
+np_webrtcvad.egg-info/
