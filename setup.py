@@ -36,11 +36,11 @@ with open(os.path.join(here, 'README.rst')) as f:
     long_description = f.read()
 
 setup(
-    name='chunkwebrtcvad',
+    name='np-webrtcvad',
     author='Tanapat Kahabodeekanokkul',
     author_email='pahntanapat@gmail.com',
     version='2.0.11.dev0',
-    description=('Python interface to the Google WebRTC Voice '
+    description=('Python - NumPy interface to the Google WebRTC Voice '
                  'Activity Detector (VAD)'),
     long_description=long_description,
     url='https://github.com/pahntanapat/py-webrtcvad',
